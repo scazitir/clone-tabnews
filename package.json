@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews-review",
+  "version": "1.0.0",
+  "description": "Project that will be used to improve my learning about Node, React and Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
